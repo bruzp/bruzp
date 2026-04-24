@@ -13,27 +13,23 @@ Currently focused on:
 
 ## 🛠️ Tools & Tech
 
-**Languages**
-- PHP
-- JavaScript
-- TypeScript
+**Languages:**  
+- PHP, JavaScript, TypeScript, SQL, HTML, CSS  
 
-**Frameworks**
-- Laravel
-- Next.js
-- React
-- Vue.js
+**Frameworks & Libraries:**  
+- Laravel, Next.js, React, Vue.js, Inertia.js, Livewire  
 
-**Backend & Database**
-- REST API Design
-- MySQL
-- PostgreSQL
+**Backend & API:**  
+- REST API Development, API Integration, System Design, Payment Gateway Integration  
 
-**Tools**
-- Docker
-- Git
-- Linux
-- AWS (EC2)
+**Database:**  
+- MySQL, PostgreSQL, Redis  
+
+**Tools & Platforms:**  
+- Docker, Git, Linux, AWS EC2, Nginx, VS Code  
+
+**Development Practices:**  
+- Clean Code, SOLID Principles, Code Review, Debugging, Performance Optimization  
 
 ---
 
@@ -41,3 +37,4 @@ Currently focused on:
 
 - I have **4 cats** 🐱
 - I like **coffee** ☕
+- I like developing maintainable and scalable systems.
