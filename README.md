@@ -1,16 +1,43 @@
-## Hi there 👋
+## Hi there 👋 I'm Bruce
 
-<!--
-**bruzp/bruzp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior PHP / Laravel Developer with over 10 years of experience building reliable web applications and RESTful APIs.  
+I enjoy designing clean, maintainable systems and continuously improving my workflow using modern tools and AI-assisted development.
 
-Here are some ideas to get you started:
+Currently focused on:
+- Backend development with Laravel
+- Building scalable APIs
+- Full-stack development with Next.js
+- Improving CI/CD and DevOps skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tools & Tech
+
+**Languages**
+- PHP
+- JavaScript
+- TypeScript
+
+**Frameworks**
+- Laravel
+- Next.js
+- React
+- Vue.js
+
+**Backend & Database**
+- REST API Design
+- MySQL
+- PostgreSQL
+
+**Tools**
+- Docker
+- Git
+- Linux
+- AWS (EC2)
+
+---
+
+## ☕ Fun Facts
+
+- I have **4 cats** 🐱
+- I like **coffee** ☕
