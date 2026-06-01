@@ -1,40 +1,31 @@
-## Hi there 👋 I'm Bruce
+# Hi, I'm Bruce
 
-I'm a Senior PHP / Laravel Developer with over 10 years of experience building reliable web applications and RESTful APIs.  
-I enjoy designing clean, maintainable systems and continuously improving my workflow using modern tools and AI-assisted development.
+Senior Full-Stack Engineer with 10+ years of experience building reliable web applications, RESTful APIs, and scalable backend systems. I care about clean architecture, maintainable code, and getting things right the first time.
 
-Currently focused on:
-- Backend development with Laravel
-- Building scalable APIs
-- Full-stack development with Next.js
-- Improving CI/CD and DevOps skills
+Currently focused on Laravel, Next.js, and building with AI.
 
 ---
 
-## 🛠️ Tools & Tech
+## Projects
 
-**Languages:**  
-- PHP, JavaScript, TypeScript, SQL, HTML, CSS  
-
-**Frameworks & Libraries:**  
-- Laravel, Next.js, React, Vue.js, Inertia.js, Livewire  
-
-**Backend & API:**  
-- REST API Development, API Integration, System Design, Payment Gateway Integration  
-
-**Database:**  
-- MySQL, PostgreSQL, Redis  
-
-**Tools & Platforms:**  
-- Docker, Git, Linux, AWS EC2, Nginx, VS Code  
-
-**Development Practices:**  
-- Clean Code, SOLID Principles, Code Review, Debugging, Performance Optimization  
+- **[support-system](https://github.com/bruzp/support-system)** — Full-stack issue ticketing system with role-based access and local AI summaries. Laravel 13, Next.js 16, PostgreSQL, Ollama, Docker.
+- **[task-manager-ai](https://github.com/bruzp/task-manager-ai)** — Task manager with an embedded local AI assistant for priority recommendations and workload summaries. Laravel, React, Inertia.js, Ollama, Docker.
+- **[translation-service-api](https://github.com/bruzp/translation-service-api)** — Production-grade translation API with sub-200ms response times, bulk export of 100k+ records, ETag caching, and full Swagger docs. Laravel, Docker.
 
 ---
 
-## ☕ Fun Facts
+## Tech
 
-- I have **4 cats** 🐱
-- I like **coffee** ☕
-- I like developing maintainable and scalable systems.
+**Backend:** PHP, Laravel, REST API, Service/Repository/DTO, Pest TDD, Queues, Sanctum  
+**Frontend:** Next.js, React, TypeScript, Vue.js, Inertia.js, Tailwind CSS  
+**Database:** MySQL, PostgreSQL, Redis  
+**DevOps:** Docker, GitHub Actions, AWS EC2, Linux, Nginx  
+**Practices:** SOLID, Clean Code, Code Review, Performance Optimization, AI-Assisted Development
+
+---
+
+## A few things about me
+
+- I have 4 cats
+- Fueled by coffee
+- I like building systems that are easy to understand six months later
