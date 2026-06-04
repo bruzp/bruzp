@@ -9,16 +9,17 @@ Currently focused on Laravel, Next.js, and building with AI.
 ## Projects
 
 - **[support-system](https://github.com/bruzp/support-system)** — Full-stack issue ticketing system with role-based access and local AI summaries. Laravel 13, Next.js 16, PostgreSQL, Ollama, Docker.
+- **[translation-service-api](https://github.com/bruzp/translation-service-api)** — Production-grade translation API with sub-200ms response times, bulk export of 100k+ records, ETag caching, and full Swagger docs. 
 - **[task-manager-ai](https://github.com/bruzp/task-manager-ai)** — Task manager with an embedded local AI assistant for priority recommendations and workload summaries. Laravel, React, Inertia.js, Ollama, Docker.
-- **[translation-service-api](https://github.com/bruzp/translation-service-api)** — Production-grade translation API with sub-200ms response times, bulk export of 100k+ records, ETag caching, and full Swagger docs. Laravel, Docker.
+Laravel, Docker.
 
 ---
 
 ## Tech
 
 **Backend:** PHP, Laravel, REST API, Service/Repository/DTO, Pest TDD, Queues, Sanctum  
-**Frontend:** Next.js, React, TypeScript, Vue.js, Inertia.js, Tailwind CSS  
-**Database:** MySQL, PostgreSQL, Redis  
+**Frontend:** React, Next.js, TypeScript, Vue.js, Inertia.js, Pinia, Zustand, jQuery  
+**Database:** MySQL, PostgreSQL  
 **DevOps:** Docker, GitHub Actions, AWS EC2, Linux, Nginx  
 **Practices:** SOLID, Clean Code, Code Review, Performance Optimization, AI-Assisted Development
 
