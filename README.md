@@ -18,7 +18,7 @@ Laravel, Docker.
 ## Tech
 
 **Backend:** PHP, Laravel, REST API, Service/Repository/DTO, Pest TDD, Queues, Sanctum  
-**Frontend:** React, Next.js, TypeScript, Vue.js, Inertia.js, Pinia, Zustand, jQuery  
+**Frontend:** React, Next.js, TypeScript, Vue.js, Nuxt.js, Inertia.js, Pinia, Zustand, jQuery  
 **Database:** MySQL, PostgreSQL  
 **DevOps:** Docker, GitHub Actions, AWS EC2, Linux, Nginx  
 **Practices:** SOLID, Clean Code, Code Review, Performance Optimization, AI-Assisted Development
