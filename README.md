@@ -12,6 +12,12 @@ Currently focused on Laravel, Next.js, and building with AI.
 
 ---
 
+## Currently Building
+
+- **[portfolio](https://github.com/bruzp/portfolio)** - Multi-tenant SaaS boilerplate (Laravel 13 API + Nuxt 4). Subdomain-based tenant isolation, Stripe billing, S3 storage, Spatie roles, Reverb real-time. In active development - see repo for progress.
+
+---
+
 ## Tech
 **Backend:** PHP, Laravel, REST API, Service/Repository/DTO, Pest TDD, Queues, Sanctum  
 **Frontend:** React, Next.js, TypeScript, Vue.js, Nuxt.js, Inertia.js, Pinia, Zustand, jQuery  
